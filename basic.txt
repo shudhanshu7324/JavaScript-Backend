@@ -1,0 +1,21 @@
+--> 2 major components        Programming Language | Database with frameword like (mongoose)
+
+Database, backend, Api, frontend
+
+A javascript based backend
+
+Data/ File/ Third Party Api
+
+A javascript Runtime env : Nodejs
+
+Package.json   .env        (Readme, git)
+
+src {index(Db connect)  app(config,cookie,urlencoded)    constants(enums,Db-name)}
+
+Db
+Models
+Controllers
+Routes
+Middlewares
+Utils
+More (depends)
