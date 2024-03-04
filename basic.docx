@@ -19,3 +19,18 @@ Routes
 Middlewares
 Utils
 More (depends)
+                            Reqest
+1 step --> Computer/Mobile  ---->  Server
+                            Express
+                            <----
+                            Response
+
+
+        Mongoose
+
+
+        // Routes
+            / --> home Routes
+            /login  --> login Routes
+
+            get request
